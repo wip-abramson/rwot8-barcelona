@@ -165,6 +165,11 @@ really, read as much as you can!)
 * [Multi-Factor Attribute Trust](https://github.com/wip-abramson/rwot8-barcelona/blob/master/topics-and-advance-readings/trusting-attributes.md)
   * By Will Abramson
   * "Developing flexible mechanisms for judging the trust of an attribute presentation is going to be essential to driving the network affects needed for widespread adoption of Verifiable Credential based identity networks."
+  
+  * [Minimal implementation of VCs for communities of practice on an agent-centric distributed platform](https://github.com/wip-abramson/rwot8-barcelona/blob/master/topics-and-advance-readings/vcs-agent-centric.md)
+  * By Jakub Lanc
+  * "Exploring suitability of agent-centric system implementations of Verifiable Credentials or Verifiable Credentials-like systems for use-cases from the distributed community of practice contexts."
+  * #VC #reputation #education
 
 
 ### Specifications
